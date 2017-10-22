@@ -15,5 +15,8 @@ for verb in sys.stdin:
 		print ("j\' " + beg + "e")
 		print ("tu " + beg + "es")
 		print ("il/elle/on " + beg + "e")
+		print ("nous " + beg + "ons")
+		print ("vous " + beg + "ez")
+		print ("ils/elles " + beg + "ent")
 	# prompt user
 	print ("Enter verb in infinitive form")
