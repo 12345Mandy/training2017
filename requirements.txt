@@ -1,0 +1,22 @@
+A simple number game.
+An address book/storage/look stuff up.
+Calculator/computations
+Convert to pig latin.
+Cash register program/compute total and change/compute tax (similar to calc.)
+Conjugation of verbs in a different language
+Favorite choice: 6
+
+
+French conjugator:
+Type in infinitive for of verb
+computer will read infinitive form
+Computer will check if actual verb/fits a pattern
+Computer will output conjucations (I, you, he, we, you(formal), they)
+
+
+
+List of things to know:
+Learn how to print out some message in python
+learn how to read some word 
+Learn how to recognize as an actual verb (ends in -er)
+Learn how to make conjugations (add endings/change endings)
